@@ -45,12 +45,10 @@ Whether you need a complete build from scratch or deep system optimization — I
 
 ---
 
-### ⚔️ Fun Facts  
-- I bench **225 lbs**  
-- Black coffee fuels my code ☕  
-- I’ve mentored **100+ students** and **23 teachers** in app development  
-- *No talent. Only discipline and hard work.*
-
+### Fun Facts 
+- I bench **225 lbs**
+- I'm a Polymath person
+- 𝗡𝗼 𝘁𝗮𝗹𝗲𝗻𝘁. 𝗢𝗻𝗹𝘆 𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗲 & 𝗵𝗮𝗿𝗱 𝘄𝗼𝗿𝗸
 ---
 
 ### ⚡ GitHub Stats  

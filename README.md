@@ -6,10 +6,10 @@
 ---
 
 ### 👨‍💻 About Me  
-Hi! I’m **Rahmansyah Aziz**, a passionate developer focused on building **efficient**, **scalable**, and **aesthetically structured** applications — both on **mobile** and **web**.  
+Hi! I’m **Rahmansyah Aziz**, a passionate developer **mobile** and **web**.  
 I thrive on exploring new technologies and creating products that merge clean architecture with real impact.
 
-> 🗝️ *Most of my projects are private — crafted with precision, security, and long-term scalability in mind.*
+> 🗝️ *Most of my projects are private — Because it's client's project*
 
 ---
 
@@ -28,7 +28,6 @@ I thrive on exploring new technologies and creating products that merge clean ar
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ---
@@ -46,16 +45,13 @@ Available for **Android**, **Flutter**, and **Full-Stack Web** projects.
 Whether you need a complete build from scratch or deep system optimization — I can make it seamless, efficient, and production-ready.  
 
 📩 **Reach me at:** [alamboh23@gmail.com](mailto:alamboh23@gmail.com)  
-🔗 **LinkedIn:** [bit.ly/azizzlinkedin](https://bit.ly/azizzlinkedin)
 
 ---
 
-### 🏋️ Fun Facts  
+### Fun Facts  
 - I bench **225 lbs**  
-- I drink **pure black coffee** every single day ☕  
-- I’ve mentored **100+ students** and **23 teachers** in app development  
-- My philosophy: *Be sharp, stay humble, and never stop building.*
-
+- I'm a Polymath person
+- 𝗡𝗼 𝘁𝗮𝗹𝗲𝗻𝘁. 𝗢𝗻𝗹𝘆 𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗲 & 𝗵𝗮𝗿𝗱 𝘄𝗼𝗿𝗸
 ---
 
 ### ⚡ GitHub Stats  
@@ -65,7 +61,3 @@ Whether you need a complete build from scratch or deep system optimization — I
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RahmansyahAziz28&color=blueviolet&style=flat-square&label=Profile+Views"/>
-</p>

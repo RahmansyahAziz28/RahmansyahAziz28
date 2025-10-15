@@ -56,13 +56,3 @@ Whether you need a complete build from scratch or deep system optimization — I
   <img src="https://github-readme-stats.vercel.app/api?username=RahmansyahAziz28&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahmansyahAziz28&theme=github-dark-blue&hide_border=true" height="160"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahmansyahAziz28&theme=onedark&row=1&no-frame=true&margin-w=15" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RahmansyahAziz28&color=blueviolet&style=flat-square&label=Profile+Views"/>
-</p>

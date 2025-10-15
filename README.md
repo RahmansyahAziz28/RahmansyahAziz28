@@ -6,8 +6,10 @@
 ---
 
 ### 👨‍💻 About Me  
-Hi! I’m **Rahmansyah Aziz**, a passionate developer who loves building efficient, scalable, and beautifully structured apps — both on **mobile** and **web**.  
-I enjoy exploring new technologies and crafting software that blends functionality with aesthetics.  
+Hi! I’m **Rahmansyah Aziz**, a passionate developer focused on building **efficient**, **scalable**, and **aesthetically structured** applications — both on **mobile** and **web**.  
+I thrive on exploring new technologies and creating products that merge clean architecture with real impact.
+
+> 🗝️ *Most of my projects are private — crafted with precision, security, and long-term scalability in mind.*
 
 ---
 
@@ -19,26 +21,40 @@ I enjoy exploring new technologies and crafting software that blends functionali
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ---
 
 ### 🧠 Currently Mastering  
-- **Node.js** & **Express.js** for scalable backend systems  
-- **Flutter** & **Laravel 11** for powerful cross-platform apps  
-- **TypeScript** & **Clean Architecture** for long-term maintainability  
+- **Node.js** & **Express.js** for backend architecture  
+- **Flutter** & **Laravel 11** for full-stack app systems  
+- **TypeScript**, **Prisma**, and **Clean Architecture** for scalable codebases  
+- **Kotlin** & **Java** for Android native optimization  
 
 ---
 
 ### 💼 Freelancing  
-I’m available for **mobile app** and **web system** development.  
-If you need a project built from scratch or optimized for performance — let’s make something extraordinary together.  
+Available for **Android**, **Flutter**, and **Full-Stack Web** projects.  
+Whether you need a complete build from scratch or deep system optimization — I can make it seamless, efficient, and production-ready.  
 
 📩 **Reach me at:** [alamboh23@gmail.com](mailto:alamboh23@gmail.com)  
 🔗 **LinkedIn:** [bit.ly/azizzlinkedin](https://bit.ly/azizzlinkedin)
+
+---
+
+### 🏋️ Fun Facts  
+- I bench **225 lbs**  
+- I drink **pure black coffee** every single day ☕  
+- I’ve mentored **100+ students** and **23 teachers** in app development  
+- My philosophy: *Be sharp, stay humble, and never stop building.*
 
 ---
 

@@ -6,7 +6,7 @@
 Hi! I’m **Rahmansyah Aziz**, a passionate developer **mobile** and **web**.  
 I thrive on exploring new technologies and creating products that merge clean architecture with real impact.
 
-> 🗝️ *Most of my projects are private — Because it's client's project*
+> 🗝️ *Most of my projects are private — crafted for clients and companies*
 
 ---
 
@@ -41,14 +41,16 @@ I thrive on exploring new technologies and creating products that merge clean ar
 Available for **Android**, **Flutter**, and **Full-Stack Web** projects.  
 Whether you need a complete build from scratch or deep system optimization — I can make it seamless, efficient, and production-ready.  
 
-📩 **Reach me at:** [alamboh23@gmail.com](mailto:alamboh23@gmail.com)  
+📩 **Reach me at:** [alamboh23@gmail.com](mailto:alamboh23@gmail.com)
 
 ---
 
-### Fun Facts  
+### ⚔️ Fun Facts  
 - I bench **225 lbs**  
-- I'm a Polymath person
-- 𝗡𝗼 𝘁𝗮𝗹𝗲𝗻𝘁. 𝗢𝗻𝗹𝘆 𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗲 & 𝗵𝗮𝗿𝗱 𝘄𝗼𝗿𝗸
+- Black coffee fuels my code ☕  
+- I’ve mentored **100+ students** and **23 teachers** in app development  
+- *No talent. Only discipline and hard work.*
+
 ---
 
 ### ⚡ GitHub Stats  
@@ -58,3 +60,11 @@ Whether you need a complete build from scratch or deep system optimization — I
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RahmansyahAziz28&theme=onedark&row=1&no-frame=true&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RahmansyahAziz28&color=blueviolet&style=flat-square&label=Profile+Views"/>
+</p>

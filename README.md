@@ -41,7 +41,7 @@ I thrive on exploring new technologies and creating products that merge clean ar
 Available for **Android**, **Flutter**, and **Full-Stack Web** projects.  
 Whether you need a complete build from scratch or deep system optimization — I can make it seamless, efficient, and production-ready.  
 
-📩 **Reach me at:** [alamboh23@gmail.com](mailto:alamboh23@gmail.com)
+📩 **Reach me at:** [alamboh23@gmail.com](mailto:rahmansyahaziz67@gmail.com)
 
 ---
 

@@ -1,7 +1,4 @@
 <h1 align="center">🦇 Rahmansyah Aziz — Mobile & Web Developer</h1>
-<p align="center">
-  <em>“Discipline, resilience, and creation — these are my code.”</em>
-</p>
 
 ---
 

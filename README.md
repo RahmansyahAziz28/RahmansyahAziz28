@@ -56,3 +56,11 @@ Whether you need a complete build from scratch or deep system optimization — I
   <img src="https://github-readme-stats.vercel.app/api?username=RahmansyahAziz28&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahmansyahAziz28&theme=github-dark-blue&hide_border=true" height="160"/>
 </p>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahmansyahAziz28/RahmansyahAziz28/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahmansyahAziz28/RahmansyahAziz28/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RahmansyahAziz28/RahmansyahAziz28/output/github-snake.svg"/>
+</picture>

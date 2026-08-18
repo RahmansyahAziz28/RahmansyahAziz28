@@ -5,7 +5,6 @@
 <h1 align="center">Rahmansyah Aziz</h1>
 <p align="center">Mobile & Full-Stack Developer — Android · Flutter · Node.js</p>
 
-
 ---
 
 ### About
@@ -51,6 +50,16 @@ Reach me at [rahmansyahaziz67@gmail.com](mailto:rahmansyahaziz67@gmail.com)
   <img src="https://github-readme-stats.vercel.app/api?username=RahmansyahAziz28&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="155"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahmansyahAziz28&theme=github-dark-blue&hide_border=true" height="155"/>
 </p>
+
+---
+
+### Metrics
+
+<p align="center">
+  <img src="github-metrics.svg" width="100%"/>
+</p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahmansyahAziz28/RahmansyahAziz28/output/github-snake-dark.svg"/>

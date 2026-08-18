@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/RahmansyahAziz28.png" width="100"/>
+</p>
+
+<h1 align="center">Rahmansyah Aziz</h1>
+<p align="center">Mobile & Full-Stack Developer — Android · Flutter · Node.js</p>
+
 <h1 align="center">Rahmansyah Aziz</h1>
 <p align="center">Mobile & Full-Stack Developer — Android · Flutter · Node.js</p>
 

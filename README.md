@@ -53,14 +53,6 @@ Reach me at [rahmansyahaziz67@gmail.com](mailto:rahmansyahaziz67@gmail.com)
 
 ---
 
-### Metrics
-
-<p align="center">
-  <img src="github-metrics.svg" width="100%"/>
-</p>
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RahmansyahAziz28/RahmansyahAziz28/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RahmansyahAziz28/RahmansyahAziz28/output/github-snake.svg"/>
